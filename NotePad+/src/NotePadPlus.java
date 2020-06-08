@@ -332,7 +332,7 @@ public class NotePadPlus extends javax.swing.JFrame implements ActionListener {
         jMenuItemAbout = new javax.swing.JMenuItem();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Text Editor");
+        setTitle("Notepad+");
         setResizable(false);
 
         jPanel.setLayout(new java.awt.BorderLayout());
